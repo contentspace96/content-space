@@ -1,4 +1,4 @@
-/* Generated on: Wed Jul 13 2022 18:17:52 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Jul 13 2022 18:54:51 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -4190,6 +4190,13 @@ figcaption {
 }
 
 #w-node-_47230f75-2476-bcdd-c735-fa9805dcd16e-36bd8598 {
+  -webkit-align-self: start;
+  -ms-flex-item-align: start;
+  -ms-grid-row-align: start;
+  align-self: start;
+}
+
+#w-node-da2ed232-c6f0-5911-ac45-f445e380ab61-36bd8598 {
   -webkit-align-self: start;
   -ms-flex-item-align: start;
   -ms-grid-row-align: start;
