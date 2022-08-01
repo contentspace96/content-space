@@ -1,4 +1,4 @@
-/* Generated on: Mon Aug 01 2022 12:14:11 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Aug 01 2022 12:16:54 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2845,10 +2845,6 @@ figcaption {
 
 .navbar2_link:hover {
   color: #deaf35;
-}
-
-.navbar2_link:visited {
-  color: #7063ff;
 }
 
 .navbar2_link.w--current {
